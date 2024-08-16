@@ -53,7 +53,7 @@
 
 Видно, что контейнер multitool читает файл.
 
-5. Ссылка на манифест Deployment - https://github.com/DemoniumBlack/fedorchukds-devops-33-41/blob/main/SRC/deployment.yaml
+5. Ссылка на манифест Deployment - https://github.com/osipovtema/K8s1/blob/main/SRC/deployment.yaml
 
 ------
 
@@ -71,4 +71,4 @@
 
 Видно, что в контейнере пода присутствует директория /nodes-logs/ с файлом syslog, который примонтирован из машины - кластера MicroK8S.
 
-4. Ссылка на манифест DaemonSet - https://github.com/DemoniumBlack/fedorchukds-devops-33-41/blob/main/SRC/daemonset.yaml
+4. Ссылка на манифест DaemonSet - https://github.com/osipovtema/K8s1/blob/main/SRC/daemonset.yaml
